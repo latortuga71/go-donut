@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/akamensky/argparse"
-	"github.com/latortuga71/go-donut/donut"
+	donut "github.com/latortuga71/go-donut/notdonut"
 )
 
 func main() {
