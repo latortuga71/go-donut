@@ -1,9 +1,9 @@
-module github.com/Binject/go-donut
+module github.com/latortuga71/go-donut
 
-go 1.16
+go 1.18
 
 require (
-	github.com/Binject/debug v0.0.0-20210312092933-6277045c2fdf
-	github.com/akamensky/argparse v1.3.0
-	github.com/google/uuid v1.2.0
+	github.com/Binject/debug v0.0.0-20211007083345-9605c99179ee
+	github.com/akamensky/argparse v1.4.0
+	github.com/google/uuid v1.3.0
 )

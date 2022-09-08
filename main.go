@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Binject/go-donut/donut"
 	"github.com/akamensky/argparse"
+	"github.com/latortuga71/go-donut/donut"
 )
 
 func main() {
